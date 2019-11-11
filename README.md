@@ -1,2 +1,2 @@
 # website
-Personal website
+Art info website
